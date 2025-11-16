@@ -53,6 +53,7 @@ Une fenêtre **Smart Calculator** s’affiche :
 5. 
 #### Pour User 1 :
 <img width="470" height="355" alt="image" src="https://github.com/user-attachments/assets/5c216a47-405a-465f-8bff-73d7f5fd5613" />
+
 #### Pour User 2:
 <img width="423" height="341" alt="image" src="https://github.com/user-attachments/assets/7e9b7c68-697f-4cb9-8d82-dc5b74516276" />
 
