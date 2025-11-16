@@ -1,6 +1,6 @@
 # Smart Calculator – Multi-Agent System (JADE)
 
-Ce projet implémente une application de calcul intelligent basée sur une architecture **multi-agents** utilisant la plateforme **JADE (Java Agent DEvelopment Framework)**.
+Ce projet implémente une application de calcul intelligent basée sur une architecture **multi-agents** utilisant la plateforme **JADE (Java Agent Development Framework)**.
 
 Il contient deux agents principaux :
 - **AgentUser** → Interface graphique (Swing) + envoi de requêtes de calcul  
